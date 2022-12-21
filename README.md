@@ -1,16 +1,20 @@
-### Hi there 👋
+## Who am I?
 
-<!--
-**Elemeants/Elemeants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daniel Polanco**.
 
-Here are some ideas to get you started:
+Creative, proactive and passionated about technology in search of a constant development and profesional growth, as well as with a high interest in the role union plays in programation and electronics in society as a way to improve the standard of living of the current one
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Linkedin](linkedin.com/in/daniel-polanco-elemeants/)
+
+## Experience
+
+I'm currently working on Intel as a Firmware Engineer.
+But I love to learn and to work on any tech project, for example:
+Backend, Frontend, CLIs, Tools, RTOS.
+
+## Languages
+
+- **C/C++**: My main languages
+- **Javascript/Typescript**: For web development
+- **Python**: Tool development
+- Other languages with minor experience: **Dart,SQL,C#**
