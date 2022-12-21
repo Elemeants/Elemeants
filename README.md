@@ -4,7 +4,7 @@
 
 Creative, proactive and passionated about technology in search of a constant development and profesional growth, as well as with a high interest in the role union plays in programation and electronics in society as a way to improve the standard of living of the current one
 
-### [Linkedin](linkedin.com/in/daniel-polanco-elemeants/)
+### [Linkedin](https://www.linkedin.com/in/daniel-polanco-elemeants/)
 
 ## Experience
 
