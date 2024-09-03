@@ -8,7 +8,9 @@ Creative, proactive and passionated about technology in search of a constant dev
 
 ## Experience
 
-I'm currently working on Intel as a Firmware Engineer.
+Currently working on C3.ai as a Software Engineer on GDL, Mex.
+I previously worked at Intel as a Firmware Engineer.
+
 But I love to learn and to work on any tech project, for example:
 Backend, Frontend, CLIs, Tools, RTOS.
 
